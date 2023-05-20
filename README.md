@@ -10,6 +10,9 @@ This is a basic JavaScript quiz website that allows users to test their knowledg
 - Instant feedback: Users receive immediate feedback on whether their answer is correct or incorrect.
 - Final score display: At the end of the quiz, the user's final score is displayed.
 
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Here is the link to the live experience](https://berylcl.github.io/quizzy-js/).
 ## Technologies Used
 
 - HTML5: Markup language used for structuring the webpages.
