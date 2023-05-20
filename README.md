@@ -48,4 +48,6 @@ Contributions are welcome! If you would like to contribute to this project, plea
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+## Contact
 
+For any questions or inquiries, please contact [gakiiberyl@gmail.com](mailto:gakiiberyl@gmail.com).
