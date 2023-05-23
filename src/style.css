@@ -90,3 +90,7 @@ input {
 .question p {
   margin-bottom: 1%;
 }
+
+.correct-answer {
+  color: #168148;
+}
