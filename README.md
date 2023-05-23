@@ -5,10 +5,12 @@ This is a basic JavaScript quiz website that allows users to test their knowledg
 
 ## Features
 
-- Multiple-choice questions: Users can answer a series of multiple-choice questions related to JavaScript.
-- Score tracking: The website keeps track of the user's score based on their correct and incorrect answers.
-- Instant feedback: Users receive immediate feedback on whether their answer is correct or incorrect.
-- Final score display: At the end of the quiz, the user's final score is displayed.
+- Dynamically retrieves trivia questions from the Trivia API.
+- Allows users to select an answer for each question.
+- Provides immediate feedback on the correctness of the answers.
+- Displays the user's score at the end of the quiz.
+- Shows the correct answers for incorrect responses.
+- Supports customization of the quiz category and number of questions.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
@@ -34,6 +36,9 @@ To run the JavaScript quiz website locally, follow these steps:
 - Select an answer for each question and click the "Next" button to proceed to the next question.
 - Receive instant feedback on your answer.
 - At the end of the quiz, view your final score.
+## Acknowledgments
+
+The Quiz App is built using the Trivia API (https://opentdb.com/) for retrieving trivia questions.
 
 ## Contributing
 
